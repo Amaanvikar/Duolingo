@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914787806746",
+    "project_id": "unboggle",
+    "storage_bucket": "unboggle.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914787806746:android:ed1018a083523788d12ba3",
+        "android_client_info": {
+          "package_name": "com.example.unboggle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8fUZdT0fKAMYM-KGrHZfE-vmaKI9uhZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
